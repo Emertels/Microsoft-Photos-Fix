@@ -1,0 +1,13 @@
+# Windows thumbnail cache and desktop settings
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+
+# VS Code / Editor settings
+.vscode/
+.idea/
