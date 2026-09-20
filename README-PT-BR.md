@@ -3,8 +3,8 @@
 <div align="center">
 
 **🌐 Idiomas / Languages:**  
-[![Português Brasil](https://img.shields.io/badge/Idioma-Portugu%C3%AAs%20(Brasil)-green?style=for-the-badge)](README.md)
-[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.en.md)
+[![Português Brasil](https://img.shields.io/badge/Idioma-Portugu%C3%AAs%20(Brasil)-green?style=for-the-badge)](README-PT-BR.md)
+[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README-EN.md)
 
 </div>
 
