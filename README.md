@@ -51,10 +51,10 @@ Este script executa uma manobra de engenharia segura e definitiva no sistema:
 * Executar com o **PowerShell** (não requer privilégios invasivos de kernel; atua no escopo seguro do usuário `HKCU`).
 
 ### 2. Modo Interativo (Menu Amigável no Terminal)
-Basta clicar com o botão direito no arquivo `Photos-Fix.ps1` e selecionar **"Executar com o PowerShell"** (ou abrir o terminal na pasta e digitar):
+Basta clicar com o botão direito no arquivo `Microsoft-Photos-Fix.ps1` e selecionar **"Executar com o PowerShell"** (ou abrir o terminal na pasta e digitar):
 
 ```powershell
-.\Photos-Fix.ps1
+.\Microsoft-Photos-Fix.ps1
 ```
 
 O menu interativo será exibido na tela:
@@ -82,13 +82,13 @@ Ideal para rotinas de pós-formatação, scripts de otimização ou administrado
 #### Exemplos de comandos:
 ```powershell
 # Aplicar a correção direto:
-.\Photos-Fix.ps1 -Corrigir
+.\Microsoft-Photos-Fix.ps1 -Corrigir
 
 # Consultar o diagnóstico atual do Fotos:
-.\Photos-Fix.ps1 -Status
+.\Microsoft-Photos-Fix.ps1 -Status
 
 # Reverter e voltar ao padrão de fábrica do Windows:
-.\Photos-Fix.ps1 -Desfazer
+.\Microsoft-Photos-Fix.ps1 -Desfazer
 ```
 
 ---

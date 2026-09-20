@@ -51,10 +51,10 @@ This script applies a safe, isolated, and permanent engineering maneuver:
 * Run via **PowerShell** (no invasive kernel modifications; operates strictly within the secure user registry scope `HKCU`).
 
 ### 2. Interactive Terminal Menu
-Right-click `Photos-Fix.ps1` and choose **"Run with PowerShell"** (or open a terminal in the folder and execute):
+Right-click `Microsoft-Photos-Fix.ps1` and choose **"Run with PowerShell"** (or open a terminal in the folder and execute):
 
 ```powershell
-.\Photos-Fix.ps1
+.\Microsoft-Photos-Fix.ps1
 ```
 
 An interactive menu will guide you:
@@ -82,13 +82,13 @@ Ideal for post-installation scripts, IT deployment, or batch automation:
 #### CLI Examples:
 ```powershell
 # Apply fix directly:
-.\Photos-Fix.ps1 -Corrigir
+.\Microsoft-Photos-Fix.ps1 -Corrigir
 
 # Check current diagnostics:
-.\Photos-Fix.ps1 -Status
+.\Microsoft-Photos-Fix.ps1 -Status
 
 # Roll back all changes:
-.\Photos-Fix.ps1 -Desfazer
+.\Microsoft-Photos-Fix.ps1 -Desfazer
 ```
 
 ---
