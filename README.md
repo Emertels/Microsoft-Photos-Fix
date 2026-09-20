@@ -71,4 +71,5 @@ Você também pode executar o script silenciosamente ou em rotinas de pós-forma
 ---
 
 ## 👤 Autor
-Desenvolvido por **Emerson Teles** ([@Emertels](https://github.com/Emertels)).
+Desenvolvido por **Emerson Teles** ([@Emertels](https://github.com/Emertels))  
+🎥 **YouTube:** [@emersonteles2379](https://www.youtube.com/@emersonteles2379)
