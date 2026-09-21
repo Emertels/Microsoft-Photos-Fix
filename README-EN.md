@@ -59,13 +59,16 @@ Right-click `Microsoft-Photos-Fix.ps1` and choose **"Run with PowerShell"** (or 
 
 An interactive menu will guide you:
 ```text
-==================================================
-   CORREÇÃO ROTA MICROSOFT FOTOS (WINDOWS 10/11)  
-==================================================
-1. Apply full fix
-2. Check current route status
-3. Roll back changes and restore Windows defaults
-4. Exit
+=====================================================
+         CORREÇÃO DO MICROSOFT FOTOS MODERNO         
+=====================================================
+ [STATUS ATUAL] -> NÃO INSTALADO / CORRIGIDO E ATIVO
+-----------------------------------------------------
+ 1 - Aplicar / Atualizar correção
+ 2 - Desfazer correção (Restaurar padrão original)
+ 3 - Ver status detalhado
+ 0 ou Esc - Sair
+-----------------------------------------------------
 ```
 
 ### 3. Silent CLI & Automation Parameters

@@ -59,13 +59,16 @@ Basta clicar com o botão direito no arquivo `Microsoft-Photos-Fix.ps1` e seleci
 
 O menu interativo será exibido na tela:
 ```text
-==================================================
-   CORREÇÃO ROTA MICROSOFT FOTOS (WINDOWS 10/11)  
-==================================================
-1. Aplicar correção completa
-2. Verificar status da rota atual
-3. Desfazer alterações e restaurar padrão
-4. Sair
+=====================================================
+         CORREÇÃO DO MICROSOFT FOTOS MODERNO         
+=====================================================
+ [STATUS ATUAL] -> NÃO INSTALADO / CORRIGIDO E ATIVO
+-----------------------------------------------------
+ 1 - Aplicar / Atualizar correção
+ 2 - Desfazer correção (Restaurar padrão original)
+ 3 - Ver status detalhado
+ 0 ou Esc - Sair
+-----------------------------------------------------
 ```
 
 ### 3. Execução Silenciosa e Automação (CLI)
