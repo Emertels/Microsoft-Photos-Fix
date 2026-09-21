@@ -100,7 +100,25 @@ Ideal para rotinas de pós-formatação, scripts de otimização ou administrado
 
 ---
 
-## 👤 Autor
-Desenvolvido por **Emerson Teles**  
-💻 **GitHub:** [@Emertels](https://github.com/Emertels)  
-🎥 **YouTube:** [@emersonteles2379](https://www.youtube.com/@emersonteles2379)
+## 👤 Sobre o Autor
+
+Desenvolvido por **Emerson Teles** (conhecido na comunidade como **Emertels**).
+
+Apaixonado por tecnologia, informática, jogos, manutenção de sistemas e tradução/localização de softwares e emuladores para o Português do Brasil (PT-BR).
+
+### 🛠️ Projetos & Contribuições Notáveis:
+- **Softwares & Utilitários:** Tradução 100% de **DSX** (DualSense X - Trusted Translator), **ASUS GPU Tweak III**, **dnGrep**, **XWidget** e ferramentas web (**DualSense Tester**, **DualShock Tools**).
+- **Emulação & Consoles:** Localização de sistemas e emuladores como **PSBBN** (PlayStation Broadband Navigator do PS2), **PCSX2**, **Dolphin**, **shadPS4**, **Azahar** e **RetroArch**.
+- **Jogos:** Tradução de **Silent Hill 5: Homecoming**, projetos em andamento em **Silent Hill 4: The Room** e diversos outros aplicativos.
+
+---
+
+### 🌐 Conecte-se comigo:
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Emertels-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emertels)
+[![YouTube](https://img.shields.io/badge/YouTube-Emerson_Teles-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
+[![X / Twitter](https://img.shields.io/badge/X_Twitter-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)
+
+</div>

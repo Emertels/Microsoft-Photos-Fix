@@ -100,7 +100,25 @@ Ideal for post-installation scripts, IT deployment, or batch automation:
 
 ---
 
-## 👤 Author
-Developed by **Emerson Teles**  
-💻 **GitHub:** [@Emertels](https://github.com/Emertels)  
-🎥 **YouTube:** [@emersonteles2379](https://www.youtube.com/@emersonteles2379)
+## 👤 About the Author
+
+Developed by **Emerson Teles** (known in the community as **Emertels**).
+
+Passionate about technology, PC hardware, gaming, system maintenance, and open software/emulator localization into Brazilian Portuguese (PT-BR).
+
+### 🛠️ Notable Projects & Contributions:
+- **Software & Utilities:** 100% Brazilian localization for **DSX** (DualSense X - Trusted Translator), **ASUS GPU Tweak III**, **dnGrep**, **XWidget**, and web utilities (**DualSense Tester**, **DualShock Tools**).
+- **Emulation & Systems:** Contributor and localizer for systems and emulators including **PSBBN** (PlayStation Broadband Navigator for PS2), **PCSX2**, **Dolphin**, **shadPS4**, **Azahar**, and **RetroArch**.
+- **Games & Apps:** Localization of **Silent Hill 5: Homecoming**, ongoing translation for **Silent Hill 4: The Room**, and various Android & PC applications.
+
+---
+
+### 🌐 Connect with me:
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Emertels-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emertels)
+[![YouTube](https://img.shields.io/badge/YouTube-Emerson_Teles-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
+[![X / Twitter](https://img.shields.io/badge/X_Twitter-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)
+
+</div>
