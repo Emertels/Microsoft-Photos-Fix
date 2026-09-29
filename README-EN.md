@@ -110,21 +110,23 @@ Developed by **Emerson Teles** (known in the community as **Emertels**).
 Passionate about technology, PC hardware, gaming, system maintenance, and open software/emulator localization into Brazilian Portuguese (PT-BR).
 
 ### 🛠️ Notable Projects & Contributions:
+- **Automation Suite:** Creator of **[Suite-Emuladores](https://github.com/Emertels/Suite-Emuladores)** — Intelligent PowerShell suite for autonomous downloading and updating of 56 game emulators and frontends.
+- **Emulation & Systems:** Creator and architect of **[PSBBN-Translator](https://github.com/Emertels/PSBBN-Translator)** for PS2 (40 languages); contributor and localizer for systems and emulators including **PSBBN**, **PCSX2**, **Dolphin**, **shadPS4**, **Azahar**, and **RetroArch**.
 - **Software & Utilities:** 100% Brazilian localization for **DSX** (DualSense X - Trusted Translator), **ASUS GPU Tweak III**, **dnGrep**, **XWidget**, and web utilities (**DualSense Tester**, **DualShock Tools**).
-- **Emulation & Systems:** Contributor and localizer for systems and emulators including **PSBBN** (PlayStation Broadband Navigator for PS2), **PCSX2**, **Dolphin**, **shadPS4**, **Azahar**, and **RetroArch**.
 - **Games & Apps:** Localization of **Silent Hill 5: Homecoming**, ongoing translation for **Silent Hill 4: The Room**, and various Android & PC applications.
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me & Official Communities:
 
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Emertels-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emertels)
-[![Discord](https://img.shields.io/badge/Discord-Emertels%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eRGFqQkvj)
+[![Discord](https://img.shields.io/badge/Discord-Emertels%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cnTxQhWWQp)
 [![X / Twitter](https://img.shields.io/badge/X_Twitter-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)
 [![YouTube](https://img.shields.io/badge/YouTube-Emerson_Teles-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
 [![Telegram](https://img.shields.io/badge/Telegram-Aplicativos%20Mods-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/apksmodsandroid)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Project-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/emertels)
 
 </div>
+
