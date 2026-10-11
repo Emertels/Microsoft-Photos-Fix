@@ -16,6 +16,16 @@ Script avançado e automatizado para PowerShell desenvolvido para sanar de forma
 
 ---
 
+## 🎥 Vídeo Tutorial & Demonstração
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ZbPYiQpkVSs" target="_blank">
+    <img src="https://img.youtube.com/vi/ZbPYiQpkVSs/maxresdefault.jpg" alt="Vídeo Tutorial da Correção do Microsoft Photos no YouTube" width="95%">
+  </a>
+</p>
+
+---
+
 ## 🛑 O Problema Crônico: O que acontece na prática?
 
 Se você utiliza o Windows 10 ou 11, é praticamente certo que já se deparou com este problema: **não importa quantas vezes você formate o computador ou reinstale o sistema, cedo ou tarde o bug crônico do Microsoft Fotos reaparece.**

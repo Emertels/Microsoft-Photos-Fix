@@ -16,6 +16,16 @@ An advanced automated PowerShell utility designed to permanently resolve the chr
 
 ---
 
+## 🎥 Video Tutorial & Demonstration
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ZbPYiQpkVSs" target="_blank">
+    <img src="https://img.youtube.com/vi/ZbPYiQpkVSs/maxresdefault.jpg" alt="Microsoft Photos Fix Video Tutorial on YouTube" width="95%">
+  </a>
+</p>
+
+---
+
 ## 🛑 The Chronic Issue: What actually happens?
 
 If you use Windows 10 or Windows 11, you have likely encountered this problem: **no matter how many times you format your computer or clean install Windows, this chronic Microsoft Photos bug inevitably resurfaces.**
